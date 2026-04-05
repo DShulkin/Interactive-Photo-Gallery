@@ -1,0 +1,1 @@
+A responsive photo gallery that combines structured front-end layout with interactive browsing features. Built with HTML, CSS Grid, and JavaScript, the project uses live search filtering and lightbox functionality to create a more seamless, user-friendly way to explore image content.
